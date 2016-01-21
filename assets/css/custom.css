@@ -1,0 +1,66 @@
+﻿#sidebar {
+    background-color: #111;
+}
+
+.nav-main a:hover, .nav-main a:focus {
+    background-color: rgb(35, 35, 35);
+}
+
+.bg-primary-dark-op {
+    background-color: rgba(39, 39, 39, 0.83);
+}
+
+.homepage-back.bg-1 {
+    background-image: url(../img/backgrounds/bg-1.jpg);
+}
+
+.homepage-back.bg-2 {
+    background-image: url(../img/backgrounds/bg-2.jpg);
+    background-position-y: 0px;
+}
+
+.homepage-back.bg-3 {
+    background-image: url(../img/backgrounds/bg-3.jpg);
+    background-position-y: 0px;
+}
+
+.homepage-back h2 {
+    font-weight: 200;
+    font-variant: small-caps;
+}
+
+p .dropzone-text span {
+    font-weight: 100;
+    margin-left: -2px;
+}
+
+p.lead .dropzone-text span {
+    font-weight: 100;
+    margin-left: -5px;
+}
+
+.fit-image {
+    max-width: 100%;
+    width: auto;
+}
+
+.hard-border {
+    border: 5px solid #E9E9E9;
+}
+
+.fa-v-center {
+    position: relative;
+    top: 5px;
+}
+
+.list-timeline li:last-of-type {
+    padding-bottom: 10px;
+}
+
+.fullHeightForm {
+    min-height: 351px;
+}
+
+.fullHeightForm2 {
+    min-height: 462px;
+}
